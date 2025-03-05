@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Test Plugin</Name>
+		<Assembly>RevitPlugIn.dll</Assembly>
+		<AddInId>
+			3A352736-BAD4-47A4-A9EC-BF79963F5AC7
+		</AddInId>
+		<FullClassName>RevitPlugIn.App</FullClassName>
+		<Text>MirroredElems</Text>
+		<VendorId>Yes</VendorId>
+		<VendorDescription>From Elina to Avalon</VendorDescription>
+	</AddIn>
+</RevitAddIns>

@@ -1,0 +1,13 @@
+D:\WebAPI\RevitPlugIn\bin\Debug\RevitPlugIn.dll
+D:\WebAPI\RevitPlugIn\bin\Debug\RevitPlugIn.pdb
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn.csproj.AssemblyReference.cache
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn.csproj.CoreCompileInputs.cache
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn.dll
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn.pdb
+D:\WebAPI\RevitPlugIn\obj\Debug\UI.g.cs
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn_MarkupCompile.cache
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn_MarkupCompile.lref
+D:\WebAPI\RevitPlugIn\obj\Debug\UI.baml
+D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn.g.resources
+D:\WebAPI\RevitPlugIn\bin\Debug\mirror.addin
+D:\WebAPI\RevitPlugIn\bin\Debug\icon.png
