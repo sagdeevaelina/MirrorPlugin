@@ -10,7 +10,7 @@
 
 *Пример работы плагина:*
 
-<video controls src="plugin_7_03.mp4" title="Title"></video>
+<video controls src="content/plugin_7_03.mp4" title="Title"></video>
 
 
  ## Установка
