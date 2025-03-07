@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\MirrorPlugin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC05AF98-1B12-4265-BE8C-1F881A17BCA5}|RevitPlugIn.csproj|D:\\MirrorPlugin\\ui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC05AF98-1B12-4265-BE8C-1F881A17BCA5}|RevitPlugIn.csproj|d:\\mirrorplugin\\ui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC05AF98-1B12-4265-BE8C-1F881A17BCA5}|RevitPlugIn.csproj|solutionrelative:ui.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC05AF98-1B12-4265-BE8C-1F881A17BCA5}|RevitPlugIn.csproj|d:\\mirrorplugin\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC05AF98-1B12-4265-BE8C-1F881A17BCA5}|RevitPlugIn.csproj|D:\\MirrorPlugin\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC05AF98-1B12-4265-BE8C-1F881A17BCA5}|RevitPlugIn.csproj|solutionrelative:app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,11 +41,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.xaml.cs",
+              "DocumentMoniker": "D:\\MirrorPlugin\\UI.xaml.cs",
+              "RelativeDocumentMoniker": "UI.xaml.cs",
+              "ToolTip": "D:\\MirrorPlugin\\UI.xaml.cs",
+              "RelativeToolTip": "UI.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:46:56.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -76,19 +89,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UI.xaml.cs",
-              "DocumentMoniker": "D:\\MirrorPlugin\\UI.xaml.cs",
-              "RelativeDocumentMoniker": "UI.xaml.cs",
-              "ToolTip": "D:\\MirrorPlugin\\UI.xaml.cs",
-              "RelativeToolTip": "UI.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:46:56.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.cs",
               "DocumentMoniker": "D:\\MirrorPlugin\\App.cs",
@@ -97,8 +97,7 @@
               "RelativeToolTip": "App.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:38:30.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T18:38:30.455Z"
             },
             {
               "$type": "Document",
