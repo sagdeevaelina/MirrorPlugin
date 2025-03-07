@@ -11,6 +11,7 @@
 *Пример работы плагина:*
 
 <video controls src="content/plugin_7_03.mp4" title="Title"></video>
+![]("content/plugin_7_03.mp4")
 
 
  ## Установка
