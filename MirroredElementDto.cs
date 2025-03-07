@@ -18,22 +18,17 @@ namespace RevitPlugIn
 {
 	public class MirroredElementDto
 	{
-		private int _id;
-		private ElementId _elementId;
-		private string _name;
-		private string _level_name;
-		private string _category;
-		public string Category { get { return _category; } }
-		public int Id {  get { return _id; } }
-		public string Name { get { return _name; } }
-		public string Level { get { return _level_name; } }
-		public ElementId ElementId { get { return _elementId; } }
+		public string Category { get; }
+		public int Id { get; }
+		public string Name { get; }
+		public string Level { get; }
+		public ElementId ElementId { get; }
 		public MirroredElementDto(int id, ElementId elementId, string name, string category, string level_name) {
-			this._id = id;
-			this._elementId = elementId;
-			this._name = name;
-			this._level_name = level_name;
-			this._category = category;
+			this.Id = id;
+			this.ElementId = elementId;
+			this.Name = name;
+			this.Level = level_name;
+			this.Category = category;
 		}
 		public override string ToString()
 		{

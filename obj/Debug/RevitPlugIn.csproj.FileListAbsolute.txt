@@ -11,3 +11,16 @@ D:\WebAPI\RevitPlugIn\obj\Debug\UI.baml
 D:\WebAPI\RevitPlugIn\obj\Debug\RevitPlugIn.g.resources
 D:\WebAPI\RevitPlugIn\bin\Debug\mirror.addin
 D:\WebAPI\RevitPlugIn\bin\Debug\icon.png
+D:\MirrorPlugin\bin\Debug\icon.png
+D:\MirrorPlugin\bin\Debug\mirror.addin
+D:\MirrorPlugin\bin\Debug\RevitPlugIn.dll
+D:\MirrorPlugin\bin\Debug\RevitPlugIn.pdb
+D:\MirrorPlugin\obj\Debug\RevitPlugIn.csproj.AssemblyReference.cache
+D:\MirrorPlugin\obj\Debug\UI.g.cs
+D:\MirrorPlugin\obj\Debug\RevitPlugIn_MarkupCompile.cache
+D:\MirrorPlugin\obj\Debug\RevitPlugIn_MarkupCompile.lref
+D:\MirrorPlugin\obj\Debug\UI.baml
+D:\MirrorPlugin\obj\Debug\RevitPlugIn.g.resources
+D:\MirrorPlugin\obj\Debug\RevitPlugIn.csproj.CoreCompileInputs.cache
+D:\MirrorPlugin\obj\Debug\RevitPlugIn.dll
+D:\MirrorPlugin\obj\Debug\RevitPlugIn.pdb
